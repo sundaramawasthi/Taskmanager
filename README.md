@@ -1,6 +1,11 @@
 # 📋 TaskManager – Personal Task Tracking App (Flutter + Firebase)
 
 ![Task Manager Preview](taskmanager1.jpg) 
+
+
+<img src="taskmanager1.jpg" width="500" height= "400" />
+
+
 ![Task Manager Preview](taskmanager2.jpg)!
 
 ![Task Manager Preview](taskmanager3.jpg)-
