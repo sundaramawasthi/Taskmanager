@@ -65,7 +65,7 @@ https://github.com/your-username/Taskmanager/assets/demo-video.mp4
 <img src="taskmanager1.jpg" width="500" height= "1000" />
 
 
-<img src="taskmanager2.jpg" width="500" height= "1000" />
+<img src="taskmanager2jpg.jpg" width="500" height= "1000" />
 
 
 <img src="taskmanager3.jpg" width="500" height= "1000" />
@@ -102,7 +102,7 @@ https://github.com/your-username/Taskmanager/assets/demo-video.mp4
 <img src="taskmanager14.jpg" width="500" height= "1000" />
 
 
-<img src="taskmanager45.jpg" width="500" height= "1000" />
+<img src="taskmanager45jpg.jpg" width="500" height= "1000" />
 
 
 
