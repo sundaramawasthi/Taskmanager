@@ -1,14 +1,19 @@
 # 📋 TaskManager – Personal Task Tracking App (Flutter + Firebase)
 
-![Task Manager Preview](taskmanager1.jpg) <![Task Manager Preview](taskmanager2.jpg)!   ![Task Manager Preview](taskmanager3.jpg)-
+![Task Manager Preview](taskmanager1.jpg) 
+![Task Manager Preview](taskmanager2.jpg)!
 
-![Task Manager Preview](taskmanager6.jpg)- ![Task Manager Preview](taskmanager5.jpg)  ![Task Manager Preview](taskmanager4.jpg)-
+![Task Manager Preview](taskmanager3.jpg)-
 
-![Task Manager Preview](taskmanager7.jpg)  ![Task Manager Preview](taskmanager8.jpg)  ![Task Manager Preview](taskmanager9.jpg)  
+![Task Manager Preview](taskmanager6.jpg)- ![Task Manager Preview](taskmanager5.jpg)  
+![Task Manager Preview](taskmanager4.jpg)-
+
+![Task Manager Preview](taskmanager7.jpg)  ![Task Manager Preview](taskmanager8.jpg) 
+![Task Manager Preview](taskmanager9.jpg)  
 
 ![Task Manager Preview](taskmanager10.jpg) ![Task Manager Preview](taskmanager13.jpg) ![Task Manager Preview](taskmanager14.jpg) 
 
-![Task Manager Preview](taskmanager911.jpg) ![Task Manager Preview](taskmanager12.jpg) ![Task Manager Preview](taskmanager45.jpg) 
+![Task Manager Preview](taskmanager11jpg.jpg) ![Task Manager Preview](taskmanager12.jpg) ![Task Manager Preview](taskmanager45jpg.jpg) 
 
 **TaskManager** is a feature-rich, modern task management app built with **Flutter**, **Firebase**, and **Riverpod**. Designed with clean architecture and scalable code, it offers real-time task tracking, authentication, and task filtering—ideal for both productivity and as a demonstration of professional Flutter/Firebase development practices.
 
