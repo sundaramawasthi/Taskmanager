@@ -54,7 +54,8 @@ lib/
 
 ## 🎥 Demo
 
-https://github.com/your-username/Taskmanager/assets/demo-video.mp4  
+[Click here to view demo video]( https://drive.google.com/file/d/1vXiVuhIMNX4u6zVLZmVc9ZKzLOlvgyXC/view?usp=sharing )
+
 *👉 A full walkthrough showing login, task creation, filtering, and completion features.*
 
 ---
@@ -120,8 +121,7 @@ https://github.com/your-username/Taskmanager/assets/demo-video.mp4
 
 🧑 Author
 Sundram Awasthi
-📧 [Insert Email]
-🔗 GitHub • LinkedIn
+📧 [sundramjob@gmail.com]
 
 
 📌 This project was created as part of a job/internship evaluation to demonstrate Flutter app development skills, clean architecture, and real-world Firebase integration.
