@@ -1,41 +1,11 @@
 # 📋 TaskManager – Personal Task Tracking App (Flutter + Firebase)
 
-![Task Manager Preview](taskmanager1.jpg) 
 
 
-<img src="taskmanager1.jpg" width="500" height= "800" />
-
-
-![Task Manager Preview](taskmanager2.jpg)!
-
-![Task Manager Preview](taskmanager3.jpg)-
-
-![Task Manager Preview](taskmanager6.jpg)- ![Task Manager Preview](taskmanager5.jpg)  
-![Task Manager Preview](taskmanager4.jpg)-
-
-![Task Manager Preview](taskmanager7.jpg)  ![Task Manager Preview](taskmanager8.jpg) 
-![Task Manager Preview](taskmanager9.jpg)  
-
-![Task Manager Preview](taskmanager10.jpg) ![Task Manager Preview](taskmanager13.jpg) ![Task Manager Preview](taskmanager14.jpg) 
-
-![Task Manager Preview](taskmanager11jpg.jpg) ![Task Manager Preview](taskmanager12.jpg) ![Task Manager Preview](taskmanager45jpg.jpg) 
 
 **TaskManager** is a feature-rich, modern task management app built with **Flutter**, **Firebase**, and **Riverpod**. Designed with clean architecture and scalable code, it offers real-time task tracking, authentication, and task filtering—ideal for both productivity and as a demonstration of professional Flutter/Firebase development practices.
 
----
 
-## 🎥 Demo
-
-https://github.com/your-username/Taskmanager/assets/demo-video.mp4  
-*👉 A full walkthrough showing login, task creation, filtering, and completion features.*
-
----
-
-## 📸 Screenshots
-
-| Login Page | Task List | Add Task | Filters |
-|------------|-----------|----------|---------|
-| ![login](assets/login.png) | ![list](assets/tasklist.png) | ![add](assets/addtask.png) | ![filters](assets/filters.png) |
 
 ---
 
@@ -79,6 +49,62 @@ lib/
 │ ├── LoginScreen.dart
 │ └── HomeScreen.dart
 └── main.dart # App entry point
+
+
+
+## 🎥 Demo
+
+https://github.com/your-username/Taskmanager/assets/demo-video.mp4  
+*👉 A full walkthrough showing login, task creation, filtering, and completion features.*
+
+---
+
+## 📸 Screenshots
+
+
+<img src="taskmanager1.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager2.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager3.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager4.jpg" width="500" height= "1000" />
+
+<img src="taskmanager5.jpg" width="500" height= "1000" />
+
+<img src="taskmanager6.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager7.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager8.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager9.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager10.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager11jpg.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager12.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager13.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager14.jpg" width="500" height= "1000" />
+
+
+<img src="taskmanager45.jpg" width="500" height= "1000" />
+
+
 
 
 ✨ Future Enhancements
