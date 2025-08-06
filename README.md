@@ -3,7 +3,7 @@
 ![Task Manager Preview](taskmanager1.jpg) 
 
 
-<img src="taskmanager1.jpg" width="500" height= "400" />
+<img src="taskmanager1.jpg" width="500" height= "800" />
 
 
 ![Task Manager Preview](taskmanager2.jpg)!
